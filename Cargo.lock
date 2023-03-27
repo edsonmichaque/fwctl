@@ -72,7 +72,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "firewalld-rs"
+name = "fwctl"
 version = "0.1.0"
 dependencies = [
  "clap",
